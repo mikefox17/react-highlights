@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-highlights"]=this["webpackJsonpreact-highlights"]||[]).push([[0],{10:function(t,e,c){"use strict";c.r(e);var i=c(1),n=c.n(i),h=c(3),r=c.n(h),s=(c(8),c(0));var a=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("h2",{children:"Hightlight Tabs"})})};r.a.render(Object(s.jsx)(n.a.StrictMode,{children:Object(s.jsx)(a,{})}),document.getElementById("root"))},8:function(t,e,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.edb434bf.chunk.js.map
